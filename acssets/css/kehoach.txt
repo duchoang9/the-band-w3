@@ -1,0 +1,22 @@
+B1. Phan tich cac thanh phan 
+    1, header
+    2, slider   
+    3, contents
+        a, about
+        b, tour
+        c, contact
+        d, image
+    4, footer
+B2. Dung base
+B3. Xay dung tung thanh phan
+B4. Hoan thien
+
+*Note: cac thanh phan thuong co 1 web: 
++ header    
++ navigation (thanh dieu huong)
++ breadcrum (thumucA>thumucB>fileX)
++ sidebar(thanh ben trai or phai cung dieu huong)
++ slider(dang luot nhu slide)
++ banner(quang cao)
++ content
++ footer
